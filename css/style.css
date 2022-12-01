@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:pink;
+    text-align: center;
+}
+#searchbtn{
+    color: hotpink;
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+.biggest-population-marker {
+    border: 2px red solid;
+    margin : 3rem ;
+    padding: 1rem;
+}
+
+#cntry-container{
+    margin: 5rem;
+    border: black solid 2px;
+}
